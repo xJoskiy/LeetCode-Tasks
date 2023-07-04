@@ -1,0 +1,11 @@
+*/x64
+.git
+.editorconfig
+.vs
+*.vcxproj
+*.filters
+*.user
+*pdb
+*.sln
+*.exe
+*.iobj
