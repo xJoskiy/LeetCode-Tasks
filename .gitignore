@@ -9,3 +9,5 @@
 *.sln
 *.exe
 *.iobj
+.vscode
+run
